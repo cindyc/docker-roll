@@ -1,6 +1,6 @@
 # Docker Roll
 
-DockerRoll is a service that manages CI workflow using Docker.
+Docker Roll is a service that manages CI workflow using Docker.
 
 How it works:
 
